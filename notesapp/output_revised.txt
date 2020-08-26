@@ -1,0 +1,7 @@
+
+testUpdateNote=false
+testInsertNote=true
+testDeleteNote=true
+testViewlAll=true
+testViewAllPage=true
+testHomePage=true
